@@ -95,4 +95,9 @@
       <version>2.4.0</version>
     </dependency>
   </dependencies>
+  <packaging>ejb</packaging>
+  <scm>
+  	<connection>scm:git:git@github.com:junginl/hw1-junginl.git</connection>
+  	<developerConnection>scm:git:git@github.com:junginl/hw1-junginl.git</developerConnection>
+  </scm>
 </project>
