@@ -3,7 +3,7 @@
   <modelVersion>4.0.0</modelVersion>
   <groupId>edu.cmu.lti.11791.f13.hw1</groupId>
   <artifactId>hw1-junginl</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <repositories>
     <repository>
       <id>oaqa</id>
@@ -95,7 +95,6 @@
       <version>2.4.0</version>
     </dependency>
   </dependencies>
-  <packaging>ejb</packaging>
   <scm>
   	<connection>scm:git:git@github.com:junginl/hw1-junginl.git</connection>
   	<developerConnection>scm:git:git@github.com:junginl/hw1-junginl.git</developerConnection>
